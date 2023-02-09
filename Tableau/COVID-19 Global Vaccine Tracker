@@ -1,0 +1,10 @@
+COVID-19 Global Vaccine Tracker
+49.3% of the world population has received at least one dose of a COVID-19 vaccine.
+
+Build a COVID vaccina tracker to track how the vaccination program is performing worldwild.
+1.  Connect to csv data (Country_vaccinations.csv)
+2.  Design all the worksheets for people partially / fully / not vaccinated from over all population.
+3.  Create calculation and parameter for filter in Dashboard.
+4.  Finally arrange all things to show with all filter.
+
+
